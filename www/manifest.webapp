@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "name": "TrafficViewer",
+  "description": "Informacion del trafico ",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/camera-16.png",
+    "48": "/img/icons/camera-48.png",
+    "128": "/img/icons/camera-128.png"
+  },
+  "developer": {
+    "name": "Davifer-Pablo",
+    "url": "http://www.davifer.es"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "locales": {
+    "es": {
+      "description": "Trafico de carreteras de España",
+      "developer": {
+        "url": "http://www.olficom.com"
+      }
+    }
+  },
+  "default_locale": "es"
+}
